@@ -4,7 +4,9 @@
 
 This project is a real-time trending movies dashboard that utilizes an ETL (Extract, Transform, Load) pipeline to fetch data from the TMDB API, transform it, and load it into a PostgreSQL database. Built with Streamlit, it provides users with an up-to-date view of trending movies, genres, ratings, and descriptions, with daily updates via an automated Airflow pipeline.
 
-![ETL Pipeline Diagram](Support process example (2).png)
+![etl diagram](https://github.com/user-attachments/assets/53779783-cdef-4e92-9e4a-c00fd619a304)
+
+
 
 ## Table of Contents
 
