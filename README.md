@@ -111,5 +111,5 @@ To configure the **PostgreSQL** connection in Airflow via the **web UI**:
 5. Open a pull request.
 
 ## License
-This project is licensed under the Apache License 2.0.
+This project is licensed under the [Apache License 2.0](LICENSE).
 
