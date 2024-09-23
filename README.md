@@ -39,7 +39,7 @@ TMDB_API_KEY=your_api_key_here
 AIRFLOW_UID=50000
 DB_HOST=movie_etl_pipline_to_dashboard-postgres-1  # container name of postgres in docker
 DB_PORT=5432
-DB_NAME=ps_db
+DB_NAME=db #database name
 DB_USER=airflow
 DB_PASSWORD=airflow
 ```
