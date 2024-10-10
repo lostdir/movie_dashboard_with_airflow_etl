@@ -2,7 +2,7 @@
 # Trending Movies Dashboard with Airflow ETL
 
 ## Project Overview
-This project is a real-time trending movies dashboard that uses a fully automated **ETL (Extract, Transform, Load)** pipeline. The pipeline fetches trending movie data from the **TMDB API**, processes it, and stores it in a **PostgreSQL** database. The dashboard, built using **Streamlit**, provides a real-time interface for users to view updated details such as genres, ratings, and descriptions of trending movies. The data is refreshed daily by an Airflow pipeline running in a Dockerized environment.
+This project is a real-time trending movies dashboard that uses a fully automated **ETL (Extract, Transform, Load)** pipeline. The pipeline fetches trending movie data from the **TMDB API**, processes it, and stores it in a **PostgreSQL** database. The dashboard, built using **Streamlit**, provides a real-time interface for users to view updated details such as genres, ratings, and descriptions of trending movies. The data is refreshed daily by an Airflow pipeline running in a Dockerized environment.Users can filter movies based on genres, release year, and minimum ratings, enhancing the overall browsing experience.
 
 ![etlflow](https://github.com/user-attachments/assets/3cec7aa3-3f6f-45ea-907c-ec39174cc597)
 
