@@ -1,7 +1,7 @@
 import requests
 import os
 
-# Load environment variables from .env if required
+# Load environment variables from .env if required.
 from dotenv import load_dotenv
 # Set your  'api_key' with your actual TMDB API key into .env file
 load_dotenv()
